@@ -97,6 +97,7 @@ class Trie{
               solution : https://ideone.com/L6bwh0
       3.https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
               solution : https://ideone.com/1ySv0P   //worst solution ever (haha)
+	      		 https://ideone.com/E0UNhK  //Optimal one
 */
 
 
