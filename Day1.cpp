@@ -98,6 +98,8 @@ class Trie{
       3.https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
               solution : https://ideone.com/1ySv0P   //worst solution ever (haha)
 	      		 https://ideone.com/E0UNhK  //Optimal one
+      4.https://www.spoj.com/problems/XORX/
+      	      solution : https://ideone.com/q8YrsC
 */
 
 
