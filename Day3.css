@@ -1,0 +1,83 @@
+body{
+	font-family: 'Dancing Script', cursive;
+	display: grid;
+	place-items:center;
+	font-size: 16px;
+}
+#my_planning_list{
+	margin-top:100px;
+	border:3px solid #3b5249;
+	border-radius: 10px;
+	-webkit-box-shadow: 24px 10px 48px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 24px 10px 48px -5px rgba(0,0,0,0.75);
+	box-shadow: 24px 10px 48px -5px rgba(0,0,0,0.75);
+	height:400px;
+	width:30%;
+	text-align: center;
+}  
+header{
+	border-bottom:3px solid #3b5249;
+	font-size: 2rem;
+	height:20%;
+	display: grid;
+	place-items:center;
+	background-image: linear-gradient(#519872,#A4B494);
+}
+.btn {
+  background-image: linear-gradient(to bottom, #519872, #A4B494);
+  font-size: 1.2rem;
+ 
+}
+.btn:hover {
+  background-image: linear-gradient(to bottom, #A4B494, #519872);
+
+}
+.add_list{
+	display: flex;
+	height:40px;
+}
+.add_list > #text{
+	width:80%;
+	border:3px solid #3b5249;
+}
+.add_list > #submit{
+	width:20%;
+
+}
+#list_store{
+	font-size: 1.5rem;
+}
+.text_items{
+	position: relative;
+	/*border:3px solid blue;*/
+	width:97%;
+	text-align: left;
+	font-size: 2rem;
+	margin:3px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	border-bottom:3px solid gray;
+	border-radius: 5px;
+}
+i{
+	opacity: 0;
+}
+.text_items:hover > i{
+	opacity: 1;
+}
+i:hover{
+	color: #2fb32b;
+}
+.icon1{
+	padding-top: 4px;
+	right:10px;
+	position:absolute;
+}
+.icon2{
+	padding-top: 4px;
+	right:42px;
+	position: absolute;
+}
+.linedraw{
+	text-decoration: line-through;
+}
