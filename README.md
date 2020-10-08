@@ -15,8 +15,8 @@ Day 11 : Computational Geometry (2D Maxima and segment intersection)(No File)
 Day 12 : Animation (Fire Works)(JS\CANVAS)  
 Day 13 : Computational Geometry (Points inside Convex Hull)(No File)  
 Day 14 : Symmetry Sketcher (JS\CANVAS)  
-Day 15 : OOP (JS/C++)
-Day 16 : Solved some of the problem from codechef
-Day 17-26 : Created portfolio (HTML/CSS/JS) (visit : portfolio repository or you can visit : https://karad1818.github.io/portfolio/)
-Day 27-30 : Data structure (Trees/AVL Tress/ BST) (C++)
+Day 15 : OOP (JS/C++)  
+Day 16 : Solved some of the problem from codechef  
+Day 17-26 : Created portfolio (HTML/CSS/JS) (visit : portfolio repository or you can visit : https://karad1818.github.io/portfolio/)  
+Day 27-30 : Data structure (Trees/AVL Tress/ BST) (C++)  
 
